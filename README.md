@@ -5,10 +5,12 @@ In this repository you will be learning about the def function in Python. Pay at
 ### To Code This
 
 In order to code this function you must have these:
+
     - Basic Python knowledges
     - A calm mind and remember the function you made
 
 You can also learn more about this function on these website:
+
     - [w3schools](https://www.w3schools.com/python/python_functions.asp)
     - [geeksforgeeks](https://www.geeksforgeeks.org/python-def-keyword/)
     - [Programiz](https://www.programiz.com/python-programming/function)
